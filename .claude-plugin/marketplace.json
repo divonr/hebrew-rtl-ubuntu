@@ -1,0 +1,13 @@
+{
+  "name": "hebrew-rtl-ubuntu",
+  "description": "Right-to-left Hebrew for the Claude Code terminal",
+  "owner": {
+    "name": "divonr"
+  },
+  "plugins": [
+    {
+      "name": "hebrew-rtl-ubuntu",
+      "source": "./"
+    }
+  ]
+}

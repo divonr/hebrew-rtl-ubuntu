@@ -1,0 +1,10 @@
+{
+  "name": "hebrew-rtl-ubuntu",
+  "version": "1.0.0",
+  "description": "Right-to-left Hebrew in the Claude Code terminal (tested on Ubuntu GNOME Terminal): Hebrew paragraphs (by majority of letters) are drawn RTL and right-aligned; English stays left",
+  "author": { "name": "divonr" },
+  "repository": "https://github.com/divonr/hebrew-rtl-ubuntu",
+  "license": "MIT",
+  "keywords": ["hebrew", "rtl", "bidi"],
+  "types": "./types/index.d.ts"
+}
